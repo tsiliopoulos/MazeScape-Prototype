@@ -144,7 +144,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 1e3bcf99a5130e14db4883c0f2ae6519, type: 2}
+  - {fileID: 2100000, guid: c165405511e4047ccb741e2ec06a7183, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -319,6 +319,7 @@ MonoBehaviour:
   outOfSight: 0
   attacking: 0
   attack: 0
+  respawnTimer: 0
 --- !u!114 &114000013721115604
 MonoBehaviour:
   m_ObjectHideFlags: 1
